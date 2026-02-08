@@ -1,0 +1,98 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Miguel
+  last_name: Narvaez
+  motto: Mereces lo que suenas
+  focus: Be a better me than yesterday but worst than tomorrow
+  summary: >
+    Software development student with a background in sound engineering and
+    a strong passion for music. 
+
+    Focused on building technical skills in programming and software design, leveraging creativity, 
+
+    problem-solving, and attention to detail developed through audio engineering.
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+  email: migueljosenarvaez27@gmail.com
+  phone: 786 790 5136
+  website: asd.com
+  linkedin: alandoe
+  github: MiguelN27
+  twitter: webjeda
+  stack-overflow: null
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Spanish
+      level: Native
+  interests:
+    - item: Music
+    - item: Movies
+    - item: Futbol
+education:
+  - degree: Music Business Associate
+    university: Miami Dade College
+    university_logo: https://images.credly.com/images/02372ea1-f3d9-4bda-86a9-888c1c31b503/blob.png
+    time: 2022-2025
+    details: >
+      Studies on Music Business mention in music production, Alumni of the
+      2025 class.
+  - degree: GED High School Diploma
+    university: Miami Dade College
+    university_logo: https://images.credly.com/images/02372ea1-f3d9-4bda-86a9-888c1c31b503/blob.png
+    time: 2020-2022
+    details: >
+      Studies to take my GED exams and get the High School Diploma to start
+      my Associate in Music Business.
+experiences:
+  - role: Post-production engineer
+    time: 2024-Present
+    company: MIXTURA Productions
+    company_logo: https://www.mixturaproductions.com//wp-content/uploads/2016/01/mixtura-prod-logo-big.png
+    details: >
+      Post-production for voics, rough mixes, as also video shoooting and
+      editing for Tony Succar
+  - role: Assistant Manager
+    time: 2023-Present
+    company: CVS Pharmacy
+    company_logo: https://cdn.worldvectorlogo.com/logos/cvs-pharmacy-1.svg
+    details: >
+      Manage all the shift, as also closing cashiers and be sure everybody is
+      achieving their goals.
+  - role: Musician
+    time: 2016-Present
+    company: Different Gigs
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: |
+      PLay Guitar/Drums/Bass for ocassional Gigs.
+projects:
+  intro: >
+    You can list your side projects or open source libraries in this section.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
+    ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Mango & Delay
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#hook"
+      tagline: An album with different Miami/Hispanic artists that mixes a lot of
+        genres.
+    - title: Tony Succar live in Mall Plaza
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: Post production for the show with Melodyne, as also video editing in a
+        couple of songs
+skills:
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: JavaScript & jQuery
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Ruby on Rails
+      level: 85%
+    - name: Sketch & Photoshop
+      level: 90%
